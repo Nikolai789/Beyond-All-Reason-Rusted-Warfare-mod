@@ -1,0 +1,10 @@
+[core]
+autoTriggerCheckRate:every8Frames
+availableInDemo: true
+
+[global_resource_metal]
+displayName: Metal
+displayColor: #808080
+displayRoundedDown: true
+displayDigitGrouping: comma
+displayPos: 2

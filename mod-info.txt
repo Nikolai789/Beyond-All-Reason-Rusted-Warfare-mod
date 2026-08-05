@@ -1,0 +1,9 @@
+[mod]
+title: Beyond all reason [v.0.1.0]
+
+description:inspired from the game Beyond all Reason
+
+thumbnail:mod-thumbnail.png
+tags: starting-units, units, experimentals
+
+minVersion: 1.15p11
