@@ -2,16 +2,18 @@
 autoTriggerCheckRate:every8Frames
 availableInDemo: true
 
-[global_resource_metal]
+[global_resource_metalresource]
 displayName: Metal
+iconImage:ROOT:assets\icons\metal_resource_icon.png
 displayColor: #808080
 displayRoundedDown: true
 displayDigitGrouping: comma
 displayPos: 2
 
-[global_resource_energy]
+[global_resource_energyresource]
 displayName: Energy
+iconImage:ROOT:assets\icons\energy_resource_icon.png
 displayColor: #fffb00
 displayRoundedDown: true
 displayDigitGrouping: comma
-displayPos: 2
+displayPos: 3
