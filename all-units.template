@@ -8,3 +8,10 @@ displayColor: #808080
 displayRoundedDown: true
 displayDigitGrouping: comma
 displayPos: 2
+
+[global_resource_energy]
+displayName: Energy
+displayColor: #fffb00
+displayRoundedDown: true
+displayDigitGrouping: comma
+displayPos: 2
