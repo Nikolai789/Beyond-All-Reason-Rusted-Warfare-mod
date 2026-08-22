@@ -17,3 +17,4 @@ displayColor: #fffb00
 displayRoundedDown: true
 displayDigitGrouping: comma
 displayPos: 3
+[global_resource_maxenergy]
